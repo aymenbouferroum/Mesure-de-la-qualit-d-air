@@ -99,7 +99,7 @@ Pour accéder à l'interface complète :
 - Accédez à l'interface par le lien : ```@IP_Raspberry:1880/ui```
 
 
-(UI_comp.jpg)
+(UI_comp.png)
 
 Pour accéder à l'interface lite:
 - Importer le fichier ```UI.json```.
@@ -108,7 +108,7 @@ Pour accéder à l'interface lite:
 - Accédez à l'interface par le lien : ```@IP_Raspberry:1880/ui```
 
 
-(UI_lite.jpg)
+(UI_lite.png)
 
 
 # Contributeur
