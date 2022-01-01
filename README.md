@@ -108,7 +108,7 @@ Pour accéder à l'interface lite:
 - Accédez à l'interface par le lien : ```@IP_Raspberry:1880/ui```
 
 
-![UI_lite](UI_lite.png)
+![UI_lite](/img/UI_lite.png)
 
 
 # Contributeur
