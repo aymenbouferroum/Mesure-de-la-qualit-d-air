@@ -37,7 +37,7 @@ pip install foobar
 ## 1. Branchement des capteurs
 Les capteurs IAQ-Core C et DHT22 sont reliés à la carte Raspberry PI via le module « Pi 2 click shield »
 
-![Capteur](/img/capteur.jpg)
+![Capteur](/img/Capteur.jpg)
 
 ## 2.Récupération des mesures des différents capteurs.
 #### Dépendances requises :
