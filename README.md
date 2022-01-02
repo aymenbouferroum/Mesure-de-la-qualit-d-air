@@ -105,11 +105,12 @@ Pour accéder à l'interface lite:
 - Importer le fichier ```UI.json```.
 - Désactiver le flux de l'interface complète ```UI_Comp```.
 - Déployer le fichier.
-- Accédez à l'interface par le lien : ```@IP_Raspberry:1880/ui```
+- Accéder à l'interface par le lien : ```@IP_Raspberry:1880/ui```
 
 
 ![UI_lite](/img/UI_lite.png)
 
+NB : Copier les figures depuis le dossier ```NR_UI_icones``` vers la Raspberry dans le repertoire ```/home/node-red-static/``` 
 
 # Contributeur
 #### Etudiants
