@@ -24,9 +24,6 @@ Ce projet est dans le cadre de la diminution de la propagation du Covid-19 dans 
 - Afficheur ou écran LCD
 
 
-```bash
-pip install foobar
-```
 # Sommaire
 - Branchement des capteurs. 
 - Récupération des mesures des différents capteurs.
