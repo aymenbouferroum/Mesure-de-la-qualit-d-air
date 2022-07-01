@@ -118,5 +118,5 @@ NB : Copier les figures depuis le dossier ```NR_UI_icones``` vers la Raspberry d
 - Gozlan Philippe.
 - Silanus Marc.
 
-# License
+# Licence
 Open Source
